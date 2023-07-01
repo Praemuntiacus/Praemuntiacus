@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Roman**
-- 👀 I’m interested in Data Analytics, Demogeaphy, Climate Change, Ecology, Epidemiology, Marketing, Client Behaviour, Geopolitics.
+- 👀 I’m interested in **Data Analytics**, **Demogeaphy**, **Climate Change**, **Ecology**, **Epidemiology**, **Marketing**, **Client Behaviour**, **Geopolitics**.
 - 🌱 I’m currently learning *Qlik* and improving my skills in *Python* and *SQL*
-- 💞️ I’m looking to collaborate on Climate CHange, Epidemiology, Ecology, CLient behaviour
+- 💞️ I’m looking to collaborate on **Climate Change**, **Epidemiology**, **Ecology**, **CLient behaviour**
 - 📫 How to reach me: romancroitor@europe.com
 
 <!---
