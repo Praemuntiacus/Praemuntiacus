@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Roman
+- 👋 Hi, I’m **Roman**
 - 👀 I’m interested in Data Analytics, Demogeaphy, Climate Change, Ecology, Epidemiology, Marketing, Client Behaviour, Geopolitics.
-- 🌱 I’m currently learning Qlik and improving my skills in Python and SQL
+- 🌱 I’m currently learning *Qlik* and improving my skills in *Python* and *SQL*
 - 💞️ I’m looking to collaborate on Climate CHange, Epidemiology, Ecology, CLient behaviour
 - 📫 How to reach me: romancroitor@europe.com
 
