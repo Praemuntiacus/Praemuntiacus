@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Roman!
+## 👋 Hi, I'm Roman!
 
 - 👀 I'm interested in **Data Analytics**, **Demography**, **Climate Change**, **Ecology**, **Epidemiology**, **Marketing**, **Client Behaviour**, and **Geopolitics**.
 - 🌱 I'm currently learning *Qlik* and improving my skills in *Python* and *SQL*.
