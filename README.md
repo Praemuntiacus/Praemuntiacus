@@ -6,7 +6,8 @@
 - 📫 How to reach me: romancroitor@europe.com
 
   --------------
-\u{1F6E0}
+&#x1F6E0;
+
 
 
 
