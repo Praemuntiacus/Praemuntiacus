@@ -10,7 +10,7 @@
 
 ### :wrench: Languages and Tools:
 
-<div>
+<div style="text-align: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="60" height="60"/>&nbsp;
@@ -22,9 +22,10 @@
 
 ### :chart_with_upwards_trend: My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praemuntiacus&theme=highcontrast&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praemuntiacus&theme=default_repocard&background=FFFFFF)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praemuntiacus&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praemuntiacus&layout=compact&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ------------------------------
 
