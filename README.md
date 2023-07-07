@@ -22,10 +22,6 @@
 
 ### :chart_with_upwards_trend: My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praemuntiacus&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praemuntiacus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praemuntiacus&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praemuntiacus&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
