@@ -6,7 +6,8 @@
 - 📫 How to reach me: romancroitor@europe.com
 
   --------------
-:tools:
+&#xFE0F;
+
 
 ###  Languages and Tools:
 
