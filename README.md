@@ -5,6 +5,7 @@
 - 💞️ I'm looking to collaborate on projects related to **Climate Change**, **Epidemiology**, **Ecology**, and **Client Behaviour**.
 - 📫 How to reach me: romancroitor@europe.com
 
+<img src="https://komarev.com/ghpvc/?username=Praemuntiacus&style=flat-square&color=blue" alt=""/>
 
 <!---
 Praemuntiacus/Praemuntiacus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
