@@ -17,8 +17,8 @@
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/urllib.png" title="URLlib" alt="URLlib" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="70" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/sckipy.png" title="SciPy" alt="SciPy" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/2560px-Scikit_learn_logo_small.png" title="Scikit-Learn" alt="Scikit-Learn" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/scipy.png" title="SciPy" alt="SciPy" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-Learn" alt="Scikit-Learn" width="60" height="60"/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/NLTK.png" title="NLTK" alt="NLTK" width="60" height="60"/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/tkinter.png" title="tkinter" alt="tkinter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/pyinstaller.png" title="Pyinstaller" alt="Pyinstaller" width="60" height="60"/>&nbsp;
