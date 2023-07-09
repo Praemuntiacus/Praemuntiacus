@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Roman!
 
 - 👀 I'm interested in **Data Analytics**, **AI**, **Demography**, **Climate Change**, **Ecology**, **Epidemiology**, **Marketing**, **Client Behaviour**, and **Geopolitics**.
-- 🌱 I'm currently learning *Qlik* and analysing biometrical data.
+- 🌱 I'm currently learning *Qlik* and working upon a book.
 - 💞️ I'm looking to collaborate on projects related to **Climate Change**, **Epidemiology**, **Ecology**, and **Client Behaviour**.
 - 📫 How to reach me: romancroitor@europe.com
 
@@ -21,7 +21,7 @@
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-Learn" alt="Scikit-Learn" { : width="80"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/NLTK.png" title="NLTK" alt="NLTK" { : width="60" }/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/tkinter.png" title="tkinter" alt="tkinter" { : width="70"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/pyinstaller.png" title="Pyinstaller" alt="Pyinstaller" { : width="60"} />&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/pyinstaller.png" title="Pyinstaller" alt="Pyinstaller" { : width="45"} />&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/matplotlib.png" title="Matplotlib" alt="Matplotlib" { : width="90"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/seaborn.png" title="Seaborn" alt="Seaborn" { : width="70"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/plotly.png" title="Plotly" alt="Plotly" { : width="80"} />&nbsp;
