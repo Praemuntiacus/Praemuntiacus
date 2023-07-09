@@ -5,7 +5,7 @@
 - 💞️ I'm looking to collaborate on projects related to **Climate Change**, **Epidemiology**, **Ecology**, and **Client Behaviour**.
 - 📫 How to reach me: romancroitor@europe.com
 
-  --------------
+--------------
 
 
 ### :wrench: Languages and Tools:
