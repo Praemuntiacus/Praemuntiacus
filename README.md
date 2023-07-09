@@ -26,8 +26,8 @@
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/seaborn.png" title="Seaborn" alt="Seaborn" { : width="70"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/plotly.png" title="Plotly" alt="Plotly" { : width="80"} />&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/geopandas_logo.png" title="Geopandas" alt="Geopandas" { : width="120"} />&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/SQL.png" title="SQL" alt="SQL" { : width="80"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/power_architect.png" title="PowerArchitect" alt="PowerArchitect" { : width="80"}/>&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/SQL.png" title="SQL" alt="SQL" { : width="85"}/>&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/power_architect.png" title="PowerArchitect" alt="PowerArchitect" { : width="65"}/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/squirrel-sql.png" title="SQuirreL" alt="SQuirreL" { : width="60"}/>&nbsp;
