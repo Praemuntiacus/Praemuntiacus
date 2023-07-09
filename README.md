@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/urllib.png" title="URLlib" alt="URLlib" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/urllib.png" title="URLlib" alt="URLlib" { : height="60"} />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="70" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/scipy.png" title="SciPy" alt="SciPy" width="60" height="60"/>&nbsp;
