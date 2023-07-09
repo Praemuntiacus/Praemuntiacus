@@ -22,7 +22,7 @@
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/NLTK.png" title="NLTK" alt="NLTK" { : width="60" }/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/tkinter.png" title="tkinter" alt="tkinter" { : width="70"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/pyinstaller.png" title="Pyinstaller" alt="Pyinstaller" { : width="45"} />&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/matplotlib.png" title="Matplotlib" alt="Matplotlib" { : width="70"}/>&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/matplotlib.png" title="Matplotlib" alt="Matplotlib" { : width="120"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/seaborn.png" title="Seaborn" alt="Seaborn" { : width="70"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/plotly.png" title="Plotly" alt="Plotly" { : width="80"} />&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/geopandas_logo.png" title="Geopandas" alt="Geopandas" { : width="120"} />&nbsp;
