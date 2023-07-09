@@ -20,12 +20,12 @@
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/scipy.png" title="SciPy" alt="SciPy" { : width="80" } />&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-Learn" alt="Scikit-Learn" { : width="80"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/NLTK.png" title="NLTK" alt="NLTK" { : width="60" }/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/tkinter.png" title="tkinter" alt="tkinter" { : width="60"}/>&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/tkinter.png" title="tkinter" alt="tkinter" { : width="70"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/pyinstaller.png" title="Pyinstaller" alt="Pyinstaller" { : width="60"} />&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/matplotlib.png" title="Matplotlib" alt="Matplotlib" { : width="90"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/seaborn.png" title="Seaborn" alt="Seaborn" { : width="70"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/plotly.png" title="Plotly" alt="Plotly" { : width="70"} />&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/geopandas_logo.png" title="Geopandas" alt="Geopandas" { : width="100"} />&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/plotly.png" title="Plotly" alt="Plotly" { : width="80"} />&nbsp;
+  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/geopandas_logo.png" title="Geopandas" alt="Geopandas" { : width="120"} />&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/SQL.png" title="SQL" alt="SQL" { : width="80"}/>&nbsp;
   <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/power_architect.png" title="PowerArchitect" alt="PowerArchitect" { : width="80"}/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="70" height="70"/>&nbsp;
