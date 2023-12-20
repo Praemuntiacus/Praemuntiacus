@@ -4,6 +4,19 @@
 - 🌱 I'm currently learning *Qlik* and performing a statistical analysis of biometrical data in Python.
 - 💞️ I'm looking to collaborate on projects related to **Climate Change**, **Epidemiology**, **Ecology**, and **Client Behaviour**.
 - 📫 How to reach me: romancroitor@europe.com
+-   <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-4224-1251"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-4224-1251
+    </a>
 
 --------------
 
@@ -36,21 +49,6 @@
 </div>
 
 ----------------------
-  <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0003-4224-1251"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0003-4224-1251
-    </a>
-
--------------------------
 
 
 ### :chart_with_upwards_trend: My stats:
