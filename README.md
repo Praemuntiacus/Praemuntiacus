@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in **Data Analytics**, **AI**, **Demography**, **Climate Change**, **Ecology**, **Epidemiology**, **Marketing**, **Client Behaviour**, and **Geopolitics**.
 - 🌱 I'm currently learning *Qlik* and performing a statistical analysis of biometrical data in Python.
-- 💞️ I'm looking to collaborate on projects related to **Climate Change**, **Epidemiology**, **Ecology**, and **Client Behaviour**.
+- 💞️ I mainly use Python, SQL, and Tableau, and to me, this trio is the key set of tools that helps me solve any task I encounter. SQL gives quick responses, Tableau helps with quickly exploring the data structure, while Python allows for thorough analysis of data and its behavior. I especially enjoy data analysis with elements of Data Science. Exploring data further through "desk study" is something I particularly like, as it allows for a deeper dive into the data. I have a passion for exploring phenomena and sharing my discoveries with others.
 - 📫 How to reach me: romancroitor@europe.com
 -   <a
     id="cy-effective-orcid-url"
