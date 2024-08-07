@@ -1,7 +1,14 @@
 ## 👋 Hi, I'm Roman!
 
 - 👀 I'm interested in **Data Analytics**, **AI**, **Demography**, **Climate Change**, **Ecology**, **Epidemiology**, **Marketing**, **Client Behaviour**, and **Geopolitics**.
-- 🌱 I'm currently learning *Qlik* and performing a statistical analysis of biometrical data in Python.
+- 🌱 I'm currently learning *Qlik* and conducting an analysis of propaganda content in a Soviet-era periodic magazine for children.
+
+Citations:
+[1] https://www.rbth.com/history/335107-soviet-propaganda-posters-krokodil-magazine
+[2] https://www.theguardian.com/world/2016/dec/19/how-north-korean-magazines-accidentally-subverted-the-ussr
+[3] https://muse.jhu.edu/article/744595/summary
+[4] https://academic.oup.com/mississippi-scholarship-online/book/31665/chapter-abstract/264107065?login=false&redirectedFrom=fulltext
+[5] https://en.wikipedia.org/wiki/Russian_Life.
 - 💞️ I mainly use Python, SQL, and Tableau, and to me, this trio is the key set of tools that helps me solve any task I encounter. SQL gives quick responses, Tableau helps with quickly exploring the data structure, while Python allows for thorough analysis of data and its behavior. I especially enjoy data analysis with elements of Data Science. Exploring data further through "desk study" is something I particularly like, as it allows for a deeper dive into the data. I have a passion for exploring phenomena and sharing my discoveries with others.
 - 📫 How to reach me: romancroitor@europe.com
 -   <a
