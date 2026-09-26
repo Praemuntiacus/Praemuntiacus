@@ -1,53 +1,57 @@
-## 👋 Hi, I'm Roman!
+# Hi, I'm Roman Croitor, Ph.D. 👋
 
-- 👀 I'm interested in **Data Analytics**, **AI**, **Demography**, **Climate Change**, **Ecology**, **Epidemiology**, **Marketing**, **Client Behaviour**, and **Geopolitics**.
-- 🌱 I'm currently learning *Qlik* and conducting an analysis of propaganda content in a Soviet-era (1924-1991) periodic magazine for children.
-- 💞️ I mainly use Python, SQL, and Tableau, and to me, this trio is the key set of tools that helps me solve any task I encounter. SQL gives quick responses, Tableau helps with quickly exploring the data structure, while Python allows for thorough analysis of data and its behavior. I especially enjoy data analysis with elements of Data Science. Exploring data further through "desk study" is something I particularly like, as it allows for a deeper dive into the data. I have a passion for exploring phenomena and sharing my discoveries with others.
-- 📫 How to reach me: romancroitor@europe.com
--   <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0003-4224-1251"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0003-4224-1251
-    </a>
+**Senior Research Scientist & Data Analyst**  
+*Specializing in Computational Biology, Exploratory Data Analysis, Spatial & Behavioral Modeling, and Complex Systems.*
 
---------------
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4224--1251-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4224-1251)
+[![Email](https://img.shields.io/badge/Email-romancroitor%40europe.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:romancroitor@europe.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman%20Croitor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 
+---
 
-### :wrench: Languages and Tools:
+### 🔬 About Me
 
-<div style="text-align: center;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/urllib.png" title="URLlib" alt="URLlib" { : width="70"} />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="70" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/scipy.png" title="SciPy" alt="SciPy" { : width="80" } />&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-Learn" alt="Scikit-Learn" { : width="80"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/NLTK.png" title="NLTK" alt="NLTK" { : width="60" }/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/tkinter.png" title="tkinter" alt="tkinter" { : width="70"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/pyinstaller.png" title="Pyinstaller" alt="Pyinstaller" { : width="45"} />&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/seaborn.png" title="Seaborn" alt="Seaborn" { : width="70"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/matplotlib.png" title="Matplotlib" alt="Matplotlib" { : width="120"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/plotly.png" title="Plotly" alt="Plotly" { : width="80"} />&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/geopandas_logo.png" title="Geopandas" alt="Geopandas" { : width="120"} />&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/SQL.png" title="SQL" alt="SQL" { : width="85"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/power_architect.png" title="PowerArchitect" alt="PowerArchitect" { : width="65"}/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/squirrel-sql.png" title="SQuirreL" alt="SQuirreL" { : width="60"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/Tableau-Emblem.png" title="Tableau" alt="Tableau" { : width="80"}/>&nbsp;
-  <img src="https://github.com/Praemuntiacus/Praemuntiacus/blob/main/KNIME.png" title="KNIME" alt="KNIME" width="60" height="60"/>&nbsp;
+I integrate **rigorous scientific methodology** with **modern data engineering & analytics** to solve complex analytical problems. My focus spans from quantitative macro-ecological patterns and evolutionary systematics to digital behavioral analysis and historical text data mining.
+
+- 🔭 **Current Focus:** Conducting quantitative content & propaganda analysis on historical periodic print media (*Мурзилка*, 1924–1991) using text processing and statistical modeling.
+- 🧪 **Research Domain:** Macro-ecology, Pleistocene faunal spatial distributions, morphometrics, and demography.
+- 💡 **Analytical Philosophy:** I combine rapid structural exploration in **SQL** and **Tableau** with deep, reproducible data science workflows in **Python** to extract actionable ground-truth insights from messy observational data.
+
+---
+
+### 🛠️ Technical Stack & Tools
+
+**Core Analytics & Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Data Visualization & BI**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=flat-square&logo=qlik&logoColor=white)
+
+**Domains of Interest**
+`Data Analytics` • `Ecology & Climate` • `Demography` • `Epidemiology` • `Behavioral Analytics` • `Spatial Data`
+
+---
+
+### 📈 GitHub Statistics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Roman's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide=html,css" alt="Top Languages" />
 </div>
 
+---
+
+### 📫 Connect & Collaborate
+
+- **Email:** [romancroitor@europe.com](mailto:romancroitor@europe.com)
+- **ORCID iD:** [0000-0003-4224-1251](https://orcid.org/0000-0003-4224-1251)
 ----------------------
 
 
