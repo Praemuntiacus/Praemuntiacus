@@ -42,8 +42,8 @@ I integrate **rigorous scientific methodology** with **modern data engineering &
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Praemuntiacus&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Roman's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praemuntiacus&layout=compact&theme=nord&hide=html,css" alt="Top Languages" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Praemuntiacus&theme=nord&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praemuntiacus&theme=nord" alt="GitHub Profile Summary" />
 </div>
 
 ---
