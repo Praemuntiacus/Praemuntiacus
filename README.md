@@ -55,15 +55,6 @@ I integrate **rigorous scientific methodology** with **modern data engineering &
 ----------------------
 
 
-### :chart_with_upwards_trend: My stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praemuntiacus&theme=default_repocard&background=FFFFFF)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praemuntiacus&layout=compact&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats)
-
-
-------------------------------
-
 <div style="text-align: center;">
     <img src="https://komarev.com/ghpvc/?username=Praemuntiacus&style=flat-square&color=blue" alt=""/>
 </div>
